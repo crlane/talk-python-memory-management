@@ -1,0 +1,13 @@
+[
+    "index.md",
+    "but-python-manages-its-own-memory.md",
+    "counting-references.md",
+    "object-lifecycle.md",
+    [
+        "garbage-collection.md",
+        "gc.md",
+        "objgraph.md"
+    ],
+    "other-considerations.md",
+    "references.md"
+]
